@@ -8,6 +8,8 @@
 Certifications - 
 1. CompTIA Security+
 
+#
+
 🔭 I’m currently doing -
 1. Projects to extend my knowledge in cyber security
 2. Reading The Phoenix Project 
