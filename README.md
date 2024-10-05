@@ -14,7 +14,6 @@ Certifications -
 1. Projects to extend my knowledge in cyber security
 2. Reading The Phoenix Project 
 3. TryHackMe
-4. Lego Rivendell 
 
 🎮 My Top 5 Video Games of all Time - 
 1. The Last of Us
