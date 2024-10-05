@@ -21,4 +21,3 @@ Certifications -
 2. COD: Black Ops 3
 3. Rainbox Six Siege
 5. Destiny 1
-6. Escape From Tarkov
