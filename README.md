@@ -20,4 +20,5 @@ Certifications -
 1. The Last of Us
 2. COD: Black Ops 3
 3. Rainbox Six Siege
-5. Destiny 1
+4. Destiny
+5. Escape from Tarkov
